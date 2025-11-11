@@ -67,7 +67,7 @@ As a team, we created slides and a video presentation showing the real-world val
 
 ## NACE
 
-![NACE Competencies](Documents/NACE (5).png)
+![NACE Competencies](Documents/NACE(5).png)
 
 
 
