@@ -34,7 +34,7 @@ As a team, we created slides and a video presentation showing the real-world val
 
 
 ## Individual Notes
-- Azmain: 
+- Azmain: Individual Notes- Azmain Abrar_group 2.pdf
 - Eusan: Individual_Notes_Eusan_Mahatab_Group2.pdf
 - Shiwlee: Individual_Notes_Shiwlee_Rahman_Group2.pdf
 - Haiyan:Individual_Notes_Haiyan_Wei_Group2.pdf
