@@ -57,7 +57,7 @@ As a team, we created slides and a video presentation showing the real-world val
 
 
 ## To-Do-List
-<img width="1214" height="730" alt="image" src="https://github.com/user-attachments/assets/2589cb68-b529-4558-b82f-dbfa3d809be7" />
+
 
 
 
@@ -68,7 +68,7 @@ As a team, we created slides and a video presentation showing the real-world val
 ## NACE
 
 
-![NACE (5)](https://github.com/user-attachments/assets/4cbac29a-5e29-46b5-801f-eead955b17a1)
+
 
 
 
