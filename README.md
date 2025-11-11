@@ -15,7 +15,7 @@ As a team, we created slides and a video presentation showing the real-world val
 - Review how T-SQL CREATE TYPE relates to the ANSI SQL CREATE DOMAIN standard.  
 - Discuss the benefits of using FQDs within a taxonomy for consistency and reusability.  
 - Highlight the importance of FQTNs for clarity and scalability across systems.  
-- Prepare a 15-minute group video and submit individual notes summarizing each member’s contribution.
+- Prepare a 20-minute group video and submit individual notes summarizing each member’s contribution.
 
 ##  Members
 - **Azmain Abrar**
