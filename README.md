@@ -76,5 +76,6 @@ As a team, we created slides and a video presentation showing the real-world val
 
 
 ## Gantt Chart 
+<img width="1645" height="639" alt="image" src="https://github.com/user-attachments/assets/fdbc6ae0-6fa0-42b4-ab50-93b02416239a" />
 
 
