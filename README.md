@@ -52,8 +52,7 @@ As a team, we created slides and a video presentation showing the real-world val
 - https://www.postgresql.org/docs/current/sql-createdomain.html  
   Shows the ANSI SQL standard version of domain creation and validation rules.
 
-- https://www.datagovernance.com
-  Discusses how taxonomies help organize and manage consistent database structures.
+
 
 
 
