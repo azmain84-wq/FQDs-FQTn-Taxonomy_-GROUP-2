@@ -58,6 +58,7 @@ As a team, we created slides and a video presentation showing the real-world val
 
 ## To-Do-List
 
+<img width="1296" height="690" alt="image" src="https://github.com/user-attachments/assets/d0617ece-0d1d-41e5-86ec-26221622a0e2" />
 
 
 
