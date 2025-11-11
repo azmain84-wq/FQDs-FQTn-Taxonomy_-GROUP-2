@@ -35,12 +35,12 @@ As a team, we created slides and a video presentation showing the real-world val
 
 ## Individual Notes
 - Azmain: 
-- Eusan: 
-- Shiwlee:
+- Eusan: Individual_Notes_Eusan_Mahatab_Group2.pdf
+- Shiwlee: Individual_Notes_FQDs-FQTn-Taxonomy_Shiwlee_Rahman.pdf
 - Haiyan:
-- Izaz: 
-- Christopher: 
-- Zarrin: 
+- Izaz: Individual_Notes_Izaz_Chowdhury_Group2.pdf
+- Christopher: Individual_Notes_Christopher_Vidal_Group2.pdf
+- Zarrin: Individual_Notes_Zarrin_Cherry_Group2.pdf
 
 
   
