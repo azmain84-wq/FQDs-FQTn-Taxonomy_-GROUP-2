@@ -46,10 +46,10 @@ As a team, we created slides and a video presentation showing the real-world val
   
 ## Resources
 
-- https://learn.microsoft.com/en-us/sql/t-sql/statements/create-type-transact-sql?view=sql-server-ver17)  
+- https://learn.microsoft.com/en-us/sql/t-sql/statements/create-type-transact-sql?view=sql-server-ver17  
   Explains how T-SQL defines user-defined data types for creating reusable and consistent domains.
 
-- https://www.postgresql.org/docs/current/sql-createdomain.html)  
+- https://www.postgresql.org/docs/current/sql-createdomain.html  
   Shows the ANSI SQL standard version of domain creation and validation rules.
 
 - https://www.datagovernance.com
