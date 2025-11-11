@@ -3,7 +3,7 @@
 ### Database Governance and Standardization Project
 
 Our group researched how Fully Qualified Domains (FQDs), Fully Qualified Table Names (FQTNs), and Taxonomies help improve database consistency, reusability, and organization.  
-We reviewed how T-SQL CREATE TYPE works like the ANSI SQL `CREATE DOMAIN command and how both support taxonomy-based database design.  
+We reviewed how T-SQL CREATE TYPE works like the ANSI SQL CREATE DOMAIN command and how both support taxonomy-based database design.  
 We also explained how Fully Qualified Table Names maintain clarity and referential integrity across multiple databases and schemas.  
 As a team, we created slides and a video presentation showing the real-world value of these concepts in database governance.
 
@@ -12,7 +12,7 @@ As a team, we created slides and a video presentation showing the real-world val
 ### Goals
 
 - Explain the purpose of FQDs, FQTNs, and Taxonomies in relational databases.  
-- Review how T-SQL `CREATE TYPE`** relates to the ANSI SQL CREATE DOMAIN standard.  
+- Review how T-SQL CREATE TYPE relates to the ANSI SQL CREATE DOMAIN standard.  
 - Discuss the benefits of using FQDs within a taxonomy for consistency and reusability.  
 - Highlight the importance of FQTNs for clarity and scalability across systems.  
 - Prepare a 15-minute group video and submit individual notes summarizing each member’s contribution.
